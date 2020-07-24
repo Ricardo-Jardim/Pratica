@@ -1,0 +1,2 @@
+# Pratica
+Praticando git
